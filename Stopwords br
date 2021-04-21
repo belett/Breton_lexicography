@@ -1,0 +1,54 @@
+#This is a short list of stopwords in Breton
+#Flexion of the same words ar separated by commas
+#License CC0
+
+#single letter
+a
+e
+o
+
+#articles
+ar,an,al
+ur,un,ul
+
+#prepositions
+abaoe
+da,din,dit,dezhañdezhi,deomp,deoc'h,dezho,dezhe,deor
+eus,ac'hanon,ac'hanout,anezhi,anezhañ,ac'hanomp,ac'hanoc'h,anezho,anezhe,acʼhanor
+betek
+eget,egedon,egedout,egetañ,egeti,egedomp,egedoc'h,egeto,egedor
+estreget,estregedon,estregedout,estregetañ,estregeti,estregedomp,estregedoc'h,estregeto,estregete,estregedor
+etre,etrezon,etrezout,etrezañ,etrezi,etrezomp,etrezoc'h,etrezo,etrezor
+evel,eveldon,eveldout,eveltañ,evelti,eveldomp,eveldoc'h,evelto,eveldor
+evit,evidon,evidout,evitañ,eviti,evidomp,evidoc'h,evito,evite,evidor
+gant,get,ganin,ganit,gantañ,ganti,ganimp,ganeoc'h,ganto,gante,ganeor
+ha,hag
+hep,hepdon,hepdout,heptañ,hepti,hepdomp,hepdoc'h,hepto,hepdor
+hervez,hervezon,hervezout,hervezañ,hervezi,hervezomp,hervezoc'h,hervezo,herveze,hervezor
+ma
+met
+ouz,ouzh,ouzhin,ouzhit,outañ,outi,ouzhimp,ouzhoc'h,outo,ouzhor
+pe
+war,warnon,warnout,warnañ,warnezhañ,warni,warnezhi,warnomp,warnoc'h,warno,warnezho,warne,warnezhe,warnor
+
+#pronouns
+me
+#te: homonym of "tea"
+eñ
+hi
+ni
+c'hwi
+i
+int
+
+er,en,el
+he,hec'h
+hor,hon,hol
+ho,hoc'h
+
+#verb to be
+oa
+eo
+zo
+vez
+bet
