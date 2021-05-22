@@ -6,8 +6,11 @@ Various code and ressources around the Breton language (ISO 639-1: ``br``, ISO 6
 ## TBD
 * Wikidata queries
   * for items
+    * [some items with a label in breton](https://w.wiki/3N5M) (limited to 100 for performance reason)
+    * [Language statistics for items](https://www.wikidata.org/wiki/User:Mr._Ibrahem/Language_statistics_for_items)
   * for lexemes
-    * all lexemes in Breton (sort alphabetically, with lexical category and multiples lemmas group together) : https://w.wiki/3Hvk
+    * [all lexemes in Breton](https://w.wiki/3Hvk) (sort alphabetically, with lexical category and multiples lemmas group together)
+    * [lexemes with forms](https://w.wiki/3N5V) (sort by number of forms)
 
 ## Useful resources
 
