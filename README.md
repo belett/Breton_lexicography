@@ -18,4 +18,6 @@ Various code and ressources around the Breton language (ISO 639-1: ``br``, ISO 6
 * [TermOfis](https://www.fr.brezhoneg.bzh/36-termofis.htm) + [KerOfis](https://www.fr.brezhoneg.bzh/40-kerofis.htm)
 * [geriafurch](https://geriafurch.bzh)
 * Dictionnaire breton sur [Lexilogos](https://www.lexilogos.com/breton_dictionnaire.htm)
+  * [Lexique étymologique du breton moderne](https://fr.wikisource.org/wiki/Lexique_étymologique_du_breton_moderne) ([Q19216625](https://www.wikidata.org/wiki/Q19216625))
+  * [Dictionnaire français-breton de Le Gonidec](https://fr.wikisource.org/wiki/Dictionnaire_français-breton_de_Le_Gonidec)
 * [Wikimammenn](https://br.wikisource.org)
