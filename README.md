@@ -25,4 +25,4 @@ Various code and ressources around the Breton language (ISO 639-1: ``br``, ISO 6
    * [Dictionnaire français-breton de Le Gonidec](https://fr.wikisource.org/wiki/Dictionnaire_français-breton_de_Le_Gonidec)
    * [Catholicon](https://fr.wikisource.org/wiki/Catholicon_(Lagadec)/1867)
    * and many more
-* Query for [all dictionaries in Breton on Wikidata](https://w.wiki/3VAs)
+* Query for [dictionaries in Breton on Wikidata]([https://w.wiki/3VAs](https://w.wiki/9PoL)https://w.wiki/9PoL)
