@@ -1,5 +1,5 @@
 # Breton lexicography
-Various code and ressources around the Breton language (ISO 639-1: ``br``, ISO 639-2 and 639-3: ``bre``).
+Various code and ressources around the Breton language (ISO 639-1: ``br``, ISO 639-2 and 639-3: ``bre``, Wikidata: [Q12107](https://www.wikidata.org/wiki/Q12107)).
 
 * [Short list of stopwords](https://github.com/belett/Breton_lexicography/blob/main/Stopwords%20br)
 
@@ -16,13 +16,14 @@ Various code and ressources around the Breton language (ISO 639-1: ``br``, ISO 6
 
 * [Devri](http://devri.bzh)
 * [TermOfis](https://www.fr.brezhoneg.bzh/36-termofis.htm) + [KerOfis](https://www.fr.brezhoneg.bzh/40-kerofis.htm)
-* [geriafurch](https://geriafurch.bzh)
-* Dictionnaire breton sur [Lexilogos](https://www.lexilogos.com/breton_dictionnaire.htm
+* [Meurgorf](https://niverel.brezhoneg.bzh/fr/meurgorf/)
+* [Geriafurch](https://geriafurch.bzh)
+* More Breton dictionaries on [Lexilogos](https://www.lexilogos.com/breton_dictionnaire.htm)
 * Wikisource:
-  * en breton : [Wikimammenn](https://br.wikisource.org)
-  * en français (voir aussi [Portail:Breton sur la Wikisource en français](https://fr.wikisource.org/wiki/Portail:Breton))
+  * in Breton : [Wikimammenn](https://br.wikisource.org)
+  * in French (see also [Portail:Breton sur la Wikisource en français](https://fr.wikisource.org/wiki/Portail:Breton))
    * [Lexique étymologique du breton moderne](https://fr.wikisource.org/wiki/Lexique_étymologique_du_breton_moderne) ([Q19216625](https://www.wikidata.org/wiki/Q19216625))
    * [Dictionnaire français-breton de Le Gonidec](https://fr.wikisource.org/wiki/Dictionnaire_français-breton_de_Le_Gonidec)
    * [Catholicon](https://fr.wikisource.org/wiki/Catholicon_(Lagadec)/1867)
    * and many more
-* Query for [dictionaries in Breton on Wikidata]([https://w.wiki/3VAs](https://w.wiki/9PoL)https://w.wiki/9PoL)
+* Query for [dictionaries in Breton on Wikidata](https://w.wiki/9PoL)
