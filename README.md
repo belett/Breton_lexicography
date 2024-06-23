@@ -7,7 +7,7 @@ Various code and ressources around the Breton language (ISO 639-1: ``br``, ISO 6
 * Wikidata queries
   * for items
     * [some items with a label in breton](https://w.wiki/3N5M) (limited to 100 for performance reason)
-      * [https://w.wiki/ATja](places in Brittany with corresponding lexemes) 
+      * [places in Brittany with corresponding lexemes](https://w.wiki/ATja) 
     * [Language statistics for items](https://www.wikidata.org/wiki/User:Mr._Ibrahem/Language_statistics_for_items)
   * for lexemes
     * [all lexemes in Breton](https://w.wiki/3Hvk) (sort alphabetically, with lexical category and multiples lemmas group together)
