@@ -1,5 +1,5 @@
 # Breton lexicography
-Various code and ressources around the Breton language (ISO 639-1: ``br``, ISO 639-2 and 639-3: ``bre``, Wikidata: [Q12107](https://www.wikidata.org/wiki/Q12107)).
+Various codes and ressources around the Breton language (ISO 639-1: ``br``, ISO 639-2 and 639-3: ``bre``, Wikidata: [Q12107](https://www.wikidata.org/wiki/Q12107)).
 
 * [Short list of stopwords](https://github.com/belett/Breton_lexicography/blob/main/Stopwords%20br)
 
@@ -13,6 +13,7 @@ Various code and ressources around the Breton language (ISO 639-1: ``br``, ISO 6
     * [all lexemes in Breton](https://w.wiki/3Hvk) (sort alphabetically, with lexical category and multiples lemmas group together)
     * [lexemes with forms](https://w.wiki/3N5V) (sort by number of forms)
   * [Main documentation page](https://www.wikidata.org/wiki/Wikidata:Lexicographical_data/Documentation/Languages/br)
+  * [Page for Breton](https://ordia.toolforge.org/language/Q12107) on Ordia
 
 ## Useful resources
 
@@ -33,4 +34,4 @@ Various code and ressources around the Breton language (ISO 639-1: ``br``, ISO 6
    * [Catholicon (1867)](https://fr.wikisource.org/wiki/Catholicon_(Lagadec)/1867) ([Q116924436](https://www.wikidata.org/wiki/Q116924436))
    * and many more
 * Wikifunctions: [Catalogue](https://www.wikifunctions.org/wiki/Wikifunctions:Catalogue/Natural_language_operations/Breton)
-* Query for [dictionaries in Breton on Wikidata](https://w.wiki/9PoL)
+* Query for [dictionaries in Breton on Wikidata](https://w.wiki/EKPx) (_to be improved_)
