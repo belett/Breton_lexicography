@@ -35,3 +35,5 @@ Various codes and ressources around the Breton language (ISO 639-1: ``br``, ISO 
    * and many more
 * Wikifunctions: [Catalogue](https://www.wikifunctions.org/wiki/Wikifunctions:Catalogue/Natural_language_operations/Breton)
 * Query for [dictionaries in Breton on Wikidata](https://w.wiki/EKPx) (_to be improved_)
+
+* [Wikibase for Web](https://github.com/fuddl/wikibase-for-web), "a browser extension that displays information from Wikidata and other Wikibase instances directly on web pages."
