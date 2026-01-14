@@ -33,6 +33,7 @@ Various codes and ressources around the Breton language (ISO 639-1: ``br``, ISO 
    * [Dictionnaire français-breton de Le Gonidec](https://fr.wikisource.org/wiki/Dictionnaire_français-breton_de_Le_Gonidec) ([Q19164695](https://www.wikidata.org/wiki/Q19164695))
    * [Catholicon (1867)](https://fr.wikisource.org/wiki/Catholicon_(Lagadec)/1867) ([Q116924436](https://www.wikidata.org/wiki/Q116924436))
    * and many more
+  
 * Wikifunctions: [Catalogue](https://www.wikifunctions.org/wiki/Wikifunctions:Catalogue/Natural_language_operations/Breton)
 * Query for [dictionaries in Breton on Wikidata](https://w.wiki/EKPx) (_to be improved_)
 
@@ -40,4 +41,8 @@ Various codes and ressources around the Breton language (ISO 639-1: ``br``, ISO 
 * [Lexeme forms](https://lexeme-forms.toolforge.org/) to add forms on a lexemes (multiple breton templates exists, in particular for adding mutations)
 * [Mishramilan](https://mishramilan.toolforge.org/#/) has 2 catalogues for Breton (Meurgorf and Devri)
 * [Wikibase for Web](https://github.com/fuddl/wikibase-for-web) "a browser extension that displays information from Wikidata and other Wikibase instances directly on web pages."
+* [Luthor](https://luthor.toolforge.org/) add example sentences from Wikisource to Wikidata Lexeme!
 * [Broomstick](https://broomstick.toolforge.org/) (see [Wikidata:Broomstick](https://www.wikidata.org/wiki/Wikidata:Broomstick))
+  * [Lexemes with no form](https://broomstick.toolforge.org/?lang=br&query=missing-forms) (none as of 2026/01/14)
+  * [Lexemes with no sens](https://broomstick.toolforge.org/?lang=br&query=missing-senses) (160 as of 2026/01/14)
+  * [Lexemes with no identifiers](https://broomstick.toolforge.org/?lang=br&query=missing-external-identifiers) (1 782 as of 2026/01/14)
