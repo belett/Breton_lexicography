@@ -44,5 +44,6 @@ Various codes and ressources around the Breton language (ISO 639-1: ``br``, ISO 
 * [Luthor](https://luthor.toolforge.org/) add example sentences from Wikisource to Wikidata Lexeme!
 * [Broomstick](https://broomstick.toolforge.org/) (see [Wikidata:Broomstick](https://www.wikidata.org/wiki/Wikidata:Broomstick))
   * [Lexemes with no form](https://broomstick.toolforge.org/?lang=br&query=missing-forms) (none as of 2026/01/14)
-  * [Lexemes with no sens](https://broomstick.toolforge.org/?lang=br&query=missing-senses) (160 as of 2026/01/14)
-  * [Lexemes with no identifiers](https://broomstick.toolforge.org/?lang=br&query=missing-external-identifiers) (1 782 as of 2026/01/14)
+  * [Lexemes with no sens](https://broomstick.toolforge.org/?lang=br&query=missing-senses) (none as of 2026/02/07)
+  * [Lexemes with no identifiers](https://broomstick.toolforge.org/?lang=br&query=missing-external-identifiers) (1 624 as of 2026/02/07)
+  * [Lexemes with no identifiers](https://broomstick.toolforge.org/?lang=br&query=missing-usage-example) (4 520 as of 2026/02/07)
